@@ -1,0 +1,46 @@
+.top {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    z-index: 10000;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  .navbar {
+    background-color: #fff;
+  }
+  
+  .nav-link {
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    -webkit-transition: color 200ms ease;
+    transition: color 200ms ease;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  .nav-link:hover {
+    color: #b9b9b9;
+  }
+  
+  .nav-link.w--current {
+    color: #ed4d45;
+  }
+  .section-top {
+    position: relative;
+    height: 200vh;
+    background-color: transparent;
+  }
+  
+  .brand {
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+  .logo{
+      width:70%;
+  }
+  

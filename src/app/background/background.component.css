@@ -1,0 +1,88 @@
+.backgounds {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -1;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+ .background1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -5;
+    display: block;
+    overflow: hidden;
+    height: 100vh;
+  }
+  
+  /*  .back1-right {
+    position: relative;
+    width: 51%;
+    height: 100vh;
+    padding-right: 70px;
+    padding-left: 70px;
+    float: right;
+    background-color: #293139;
+   background-image: url('http://www.qcin.org/images/presentation/DSC_32.jpg');
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+  }*/
+  .background2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -4;
+    display: block;
+    overflow: visible;
+    height: 100vh;
+    background-color: #2d2d2d;
+    background-image: -webkit-linear-gradient(225deg, #259bc1, #984481);
+    background-image: linear-gradient(225deg, #259bc1, #984481);
+    opacity: 0;
+  }
+  
+  .back-left {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: #ed4d45;
+    background-image: -webkit-linear-gradient(225deg,#259bc1, #984481);
+    background-image: linear-gradient(225deg, #105ECE, #6AE7FC);
+    -webkit-transform: translate(-50%, 0px);
+    -ms-transform: translate(-50%, 0px);
+    transform: translate(-50%, 0px);
+  }
+  
+  .section3 {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 79vh;
+    background-color: transparent;
+  }
+  
+  .background3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -3;
+    overflow: hidden;
+    background-color: #ededed;
+    background-image: -webkit-linear-gradient(225deg, #105ECE, #6AE7FC);
+    background-image: linear-gradient(225deg, #105ECE, #6AE7FC);
+    opacity: 0;
+  }
+  

@@ -1,0 +1,126 @@
+.section-top {
+    position: relative;
+    height: 200vh;
+    background-color: transparent;
+  }
+  
+  .brand {
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+  
+  .bottom {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 3000;
+    height: 50px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .div-left {
+    position: fixed;
+    top: 50%;
+    width: 50%;
+    height: auto;
+    padding-right: 150px;
+    padding-left: 9vw;
+    opacity: 1;
+    -webkit-transform: translate(0px, -50%);
+    -ms-transform: translate(0px, -50%);
+    transform: translate(0px, -50%);
+  }
+  
+  .div-txt-top {
+    position: static;
+    top: 50%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    opacity: 1;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+  
+  .div-txt-top.dtt-percent {
+    width: 50%;
+  }
+  
+  .div-hl-mini {
+    display: block;
+    float: none;
+  }
+  
+  .div-hl-mini.hl-mini-side {
+    line-height: 14px;
+  }
+  
+  .line1 {
+    width: 36px;
+    height: 3px;
+    margin-top: 16px;
+    margin-right: 11px;
+    float: none;
+    clear: none;
+    background-color: #000;
+  }
+  
+  .line1.line1b {
+    margin-top: 0px;
+  }
+  
+  .line1.line-center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .txt-hl-mini {
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float: none;
+    clear: none;
+    font-family: Montserrat, sans-serif;
+    color: #000;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: italic;
+    font-weight: 500;
+  }
+  
+  .txt-white {
+    color: #fff;
+  }
+  
+  .backgounds {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -1;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  .background1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -5;
+    display: block;
+    overflow: hidden;
+    height: 100vh;
+  }

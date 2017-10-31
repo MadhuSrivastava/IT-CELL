@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-point-to-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-713.000000, -5988.000000)" fill-rule="nonzero" fill="#000000">
+            <g id="arrow-point-to-right" transform="translate(720.000000, 5992.000000) rotate(90.000000) translate(-720.000000, -5992.000000) translate(716.000000, 5985.000000)">
+                <path d="M7.54952496,7.69046018 L1.64560992,13.7080133 C1.27004961,14.091 0.661142946,14.091 0.285764961,13.7080133 C-0.0896434109,13.3253673 -0.0896434109,12.7047522 0.285764961,12.3221372 L5.50981829,6.99752212 L0.285916899,1.67309292 C-0.0894914729,1.29029204 -0.0894914729,0.669738938 0.285916899,0.28709292 C0.661325271,-0.0957079646 1.27020155,-0.0957079646 1.64576186,0.28709292 L7.5496769,6.30473894 C7.73738109,6.49615487 7.83112682,6.74676106 7.83112682,6.99749115 C7.83112682,7.24834513 7.73719876,7.49913717 7.54952496,7.69046018 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
