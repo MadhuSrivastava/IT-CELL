@@ -9,32 +9,7 @@
     margin-left: 50px;
   }
   
- .background1 {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    z-index: -5;
-    display: block;
-    overflow: hidden;
-    height: 100vh;
-  }
-  
-  /*  .back1-right {
-    position: relative;
-    width: 51%;
-    height: 100vh;
-    padding-right: 70px;
-    padding-left: 70px;
-    float: right;
-    background-color: #293139;
-   background-image: url('http://www.qcin.org/images/presentation/DSC_32.jpg');
-    background-position: 50% 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-  }*/
+ 
   .background2 {
     position: absolute;
     left: 0px;
@@ -69,7 +44,7 @@
     position: relative;
     padding-top: 50px;
     padding-bottom: 79vh;
-    background-color: transparent;
+   
   }
   
   .background3 {
@@ -83,6 +58,6 @@
     background-color: #ededed;
     background-image: -webkit-linear-gradient(225deg, #105ECE, #6AE7FC);
     background-image: linear-gradient(225deg, #105ECE, #6AE7FC);
-    opacity: 0;
+    opacity: 1;
   }
   

@@ -1,0 +1,46 @@
+.div-social {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 50px;
+    height: 100vh;
+  }
+  
+  .div-social-buttons {
+    position: relative;
+    top: 50%;
+    display: block;
+    -webkit-transform: translate(0px, -50%);
+    -ms-transform: translate(0px, -50%);
+    transform: translate(0px, -50%);
+    text-align: center;
+  }
+  
+  .div-social-buttons.hide {
+    display: block;
+  }
+  
+  .link-social {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: none;
+    clear: none;
+    -webkit-transition: opacity 200ms ease;
+    transition: opacity 200ms ease;
+  }
+  
+  .link-social:hover {
+    opacity: 0.3;
+  }
+  
+  .link-social.nref {
+    font-family: Montserrat, sans-serif;
+    color: #000;
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+  }

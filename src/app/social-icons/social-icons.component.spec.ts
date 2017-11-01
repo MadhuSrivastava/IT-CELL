@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { DivLeftComponent } from './div-left.component';
+import { SocialIconsComponent } from './social-icons.component';
 
-describe('DivLeftComponent', () => {
-  let component: DivLeftComponent;
-  let fixture: ComponentFixture<DivLeftComponent>;
+describe('SocialIconsComponent', () => {
+  let component: SocialIconsComponent;
+  let fixture: ComponentFixture<SocialIconsComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ DivLeftComponent ]
+      declarations: [ SocialIconsComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(DivLeftComponent);
+    fixture = TestBed.createComponent(SocialIconsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
