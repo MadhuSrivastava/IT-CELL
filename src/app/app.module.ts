@@ -13,6 +13,8 @@ import { HomeComponent } from './home/home.component';
 import { ScrollAnimationFooterComponent } from './scroll-animation-footer/scroll-animation-footer.component';
 import { SocialIconsComponent } from './social-icons/social-icons.component';
 import { AllProjectsViewComponent } from './all-projects-view/all-projects-view.component';
+import { AboutSliderComponent } from './about-slider/about-slider.component';
+import { AboutTextComponent } from './about-text/about-text.component';
 
 const appRoutes:Routes = [
 
@@ -43,6 +45,8 @@ const appRoutes:Routes = [
     ScrollAnimationFooterComponent,
     SocialIconsComponent,
     AllProjectsViewComponent,
+    AboutSliderComponent,
+    AboutTextComponent,
   ],
   imports: [
     RouterModule.forRoot(appRoutes),
